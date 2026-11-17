@@ -2,10 +2,10 @@
 
 <img src="https://qaswaraelfohrar.com/assets/img/logo-light.png" width="96" alt="Qaswara Elfohrar IT logo"/>
 
-# Qaswara Elfohrar IT · قسورة الفوهرر لتقنية المعلومات
+# Qaswara Elfohrar IT · قسورة لتقنية المعلومات
 
 **Business software built by an accountant — Arabic-first, offline-friendly, ZATCA-ready.**
-**برامج أعمال يكتبها محاسب: عربية أولًا، تعمل دون اتصال، ومتوافقة مع الفوترة الإلكترونية.**
+**برامج وحلول أعمال وأنظمة ERP يكتبها محاسب: لجميع مجالات الأعمال ، تعمل دون اتصال، ومتوافقة مع الفوترة الإلكترونية.**
 
 [![Website](https://img.shields.io/badge/qaswaraelfohrar.com-1D1510?style=for-the-badge&logo=googlechrome&logoColor=F27A1A)](https://qaswaraelfohrar.com)
 [![Apps](https://img.shields.io/badge/Free%20Apps-F27A1A?style=for-the-badge&logo=windows&logoColor=white)](https://apps.qaswaraelfohrar.com)
